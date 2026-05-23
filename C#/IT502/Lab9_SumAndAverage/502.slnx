@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab10_TimesTable/Lab10_TimesTable.csproj" />
+  <Project Path="Lab11_StarCount/Lab11_StarCount.csproj" />
+  <Project Path="Lab12_WordCount/Lab12_WordCount.csproj" />
+  <Project Path="Lab9_SumAndAverage/Lab09_SumAndAverage.csproj" />
+</Solution>
