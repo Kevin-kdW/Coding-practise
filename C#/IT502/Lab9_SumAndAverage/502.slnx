@@ -2,5 +2,11 @@
   <Project Path="Lab10_TimesTable/Lab10_TimesTable.csproj" />
   <Project Path="Lab11_StarCount/Lab11_StarCount.csproj" />
   <Project Path="Lab12_WordCount/Lab12_WordCount.csproj" />
+  <Project Path="Lab13_ReverseAString/Lab13_ReverseAString.csproj" Id="05b998a4-5fe0-4c2f-a0a2-99b2bb9081a7" />
+  <Project Path="Lab14_HowManyVowels/Lab14_HowManyVowels.csproj" Id="0caac403-d28e-4601-8f0d-e96424eba9f8" />
+  <Project Path="Lab15_VowelCount/Lab15_VowelCount.csproj" Id="8b3a58d9-7500-4596-a2bb-079298ae4558" />
+  <Project Path="Lab16_CountTheStars2/Lab16_CountTheStars2.csproj" Id="a437a8ea-c609-4474-987c-98ba2289bb01" />
+  <Project Path="Lab17_TestScores/Lab17_TestScores.csproj" Id="ba12b323-a159-487c-a4d7-7378ff4dc6a0" />
+  <Project Path="Lab18_CalculateArea/Lab18_CalculateArea.csproj" Id="16a50a53-c2cc-488e-8dad-b3e83be959ca" />
   <Project Path="Lab9_SumAndAverage/Lab09_SumAndAverage.csproj" />
 </Solution>
