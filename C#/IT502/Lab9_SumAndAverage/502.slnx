@@ -8,5 +8,13 @@
   <Project Path="Lab16_CountTheStars2/Lab16_CountTheStars2.csproj" Id="a437a8ea-c609-4474-987c-98ba2289bb01" />
   <Project Path="Lab17_TestScores/Lab17_TestScores.csproj" Id="ba12b323-a159-487c-a4d7-7378ff4dc6a0" />
   <Project Path="Lab18_CalculateArea/Lab18_CalculateArea.csproj" Id="16a50a53-c2cc-488e-8dad-b3e83be959ca" />
+  <Project Path="Lab19_LargestScore/Lab19_LargestScore.csproj" Id="8589b878-bcb3-406e-88dc-a286d96bf356" />
+  <Project Path="Lab20_SumOfLinesOfNumbers/Lab20_SumOfLinesOfNumbers.csproj" Id="f061677a-b8f1-46d1-a593-c3c50504e698" />
+  <Project Path="Lab21_SumOfLineOfValidNumbers/Lab21_SumOfLineOfValidNumbers.csproj" Id="d4ec4890-f6f7-49c1-aafb-ebee76de7054" />
+  <Project Path="Lab22_TestScores/Lab22_TestScores.csproj" Id="dda10b99-96c1-49d7-bc21-88f672ed2d93" />
+  <Project Path="Lab23_ChessGames/Lab23_ChessGames.csproj" Id="c46426a0-12b4-4ae6-b2b2-0757b1813a33" />
+  <Project Path="Lab24_Min&amp;MaxNumbers/Lab24_Min&amp;MaxNumbers.csproj" Id="b94c4d93-337d-4474-b39b-ce7997bcf5b1" />
+  <Project Path="Lab25_SortNames1/Lab25_SortNames1.csproj" Id="914991a1-e216-4cf8-86b0-4f01ec32a687" />
+  <Project Path="Lab26_Median/Lab26_Median.csproj" Id="084f1616-34b0-4a47-861f-4b1d2d087710" />
   <Project Path="Lab9_SumAndAverage/Lab09_SumAndAverage.csproj" />
 </Solution>
