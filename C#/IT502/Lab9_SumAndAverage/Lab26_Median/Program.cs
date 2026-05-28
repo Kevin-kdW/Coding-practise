@@ -9,4 +9,14 @@ while (count < line)
     count++;
 }
 Array.Sort(nums);
-Console.WriteLine($"{nums[nums.Length/2]:0.00}");
+if (nums.Length % 2 == 0)
+{
+    Console.WriteLine($"{(nums[nums.Length / 2] + nums[(nums.Length / 2) - 1]) / 2.0:0.00}");
+}
+
+else if (nums.Length % 2 == 1)
+{
+    Console.WriteLine($"{nums[nums.Length / 2]:0.00}");
+}
+
+//Console.WriteLine($"{nums[nums.Length/2]:0.00}");

@@ -16,5 +16,8 @@
   <Project Path="Lab24_Min&amp;MaxNumbers/Lab24_Min&amp;MaxNumbers.csproj" Id="b94c4d93-337d-4474-b39b-ce7997bcf5b1" />
   <Project Path="Lab25_SortNames1/Lab25_SortNames1.csproj" Id="914991a1-e216-4cf8-86b0-4f01ec32a687" />
   <Project Path="Lab26_Median/Lab26_Median.csproj" Id="084f1616-34b0-4a47-861f-4b1d2d087710" />
+  <Project Path="Lab27_GradingScores/Lab27_GradingScores.csproj" Id="f8867e69-98fa-47c9-a4ef-a480eec21feb" />
+  <Project Path="Lab28_SortNumbers/Lab28_SortNumbers.csproj" Id="d94875f9-f862-4dd2-a9d3-f666577617c3" />
+  <Project Path="Lab29_SortedNames2/Lab29_SortedNames2.csproj" Id="5b59f88a-8c27-4695-88c9-521d9078724b" />
   <Project Path="Lab9_SumAndAverage/Lab09_SumAndAverage.csproj" />
 </Solution>
