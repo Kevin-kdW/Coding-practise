@@ -19,5 +19,6 @@
   <Project Path="Lab27_GradingScores/Lab27_GradingScores.csproj" Id="f8867e69-98fa-47c9-a4ef-a480eec21feb" />
   <Project Path="Lab28_SortNumbers/Lab28_SortNumbers.csproj" Id="d94875f9-f862-4dd2-a9d3-f666577617c3" />
   <Project Path="Lab29_SortedNames2/Lab29_SortedNames2.csproj" Id="5b59f88a-8c27-4695-88c9-521d9078724b" />
+  <Project Path="Lab30_TestScores2/Lab30_TestScores2.csproj" Id="e7cadfe1-bc9e-4c9f-9187-b85dc0c6fad0" />
   <Project Path="Lab9_SumAndAverage/Lab09_SumAndAverage.csproj" />
 </Solution>

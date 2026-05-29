@@ -1,9 +1,8 @@
 ﻿using System.Collections;
-using System.Globalization;
 
 Console.WriteLine("Lab 29");
 string line = Console.ReadLine();
-ArrayList names = new ArrayList();
+ArrayList names = new ArrayList(200);
 while (line != "#")
 {
     names.Add(line);
