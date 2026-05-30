@@ -1,0 +1,19 @@
+tyranosaurus,2,dinosaur,true
+stegosaurus,4,dinosaur,true
+tui,2,bird,false
+antelope,4,mammal,false
+tiger,4,mammal,false
+emu,2,bird,false
+moa,2,bird,true
+sabretooth tiger,4,mammal,true
+pumu,4,mammal,false
+dodo,2,bird,true
+llama,4,mammal,false
+lion,4,mammal,false
+bellbird,2,bird,false
+kangaroo,4,marsupial,false
+wallaby,4,marsupial,false
+panda,4,mammal,false
+crocodile,4,reptile,false
+ocelot,4,mammal,false
+alligator,4,reptile,false

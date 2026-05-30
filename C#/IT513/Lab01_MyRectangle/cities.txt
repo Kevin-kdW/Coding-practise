@@ -1,0 +1,9 @@
+Wuhan,Hubei
+Beijing,municipal
+Shanghai,municipal
+Lichuan,Hubei
+Honghu,Hubei
+Hohot,Inner Mongolia
+Chifeng,Inner Mongolia
+Shaoshan,Hunan
+Macau,autonomous

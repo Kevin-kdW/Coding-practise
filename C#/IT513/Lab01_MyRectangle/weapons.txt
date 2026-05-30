@@ -1,0 +1,225 @@
+Pioneer's Dagger,One-Hand,Dagger,81.8 damage per second,67
+Engraved Dagger,One-Hand,Dagger,83.2 damage per second,68
+Seal Shortblade,One-Hand,Dagger,84.4 damage per second,69
+Whale Ripper,One-Hand,Dagger,86.2 damage per second,70
+Frosty Talon,One-Hand,Dagger,90.0 damage per second,72
+Snowbold Ripper,One-Hand,Dagger,91.8 damage per second,73
+Ebony Dagger,One-Hand,Dagger,93.5 damage per second,74
+Trapper Knife,One-Hand,Dagger,95.3 damage per second,75
+Parrying Dagger,One-Hand,Dagger,97.6 damage per second,76
+Mandible Edge,One-Hand,Dagger,99.7 damage per second,77
+Etched Dagger,One-Hand,Dagger,102.1 damage per second,78
+Sinuous Keris,One-Hand,Dagger,104.4 damage per second,79
+Ornate Pugio,One-Hand,Dagger,106.8 damage per second,80
+Stone-Headed Gavel,One-Hand,Mace,81.5 damage per second,67
+Conifer Club,One-Hand,Mace,83.1 damage per second,68
+Iron Flanged Scepter,One-Hand,Mace,84.8 damage per second,69
+Tuskarr Cudgel,One-Hand,Mace,86.3 damage per second,70
+Peaked Club,One-Hand,Mace,89.8 damage per second,72
+Furbolg Truncheon,One-Hand,Mace,91.7 damage per second,73
+Barbed Star,One-Hand,Mace,93.7 damage per second,74
+Ferrous Hammer,One-Hand,Mace,95.6 damage per second,75
+Brass-Bound Cudgel,One-Hand,Mace,97.5 damage per second,76
+Adamant Mallet,One-Hand,Mace,99.6 damage per second,77
+Nerubian Mace,One-Hand,Mace,101.9 damage per second,78
+Frigid War-Mace,One-Hand,Mace,104.2 damage per second,79
+Gargoyle's Mace,One-Hand,Mace,106.7 damage per second,80
+Granite Maul,Two-Hand,Mace,106.1 damage per second,67
+Ungainly Mace,Two-Hand,Mace,108.0 damage per second,68
+Toothless Bludgeon,Two-Hand,Mace,110.1 damage per second,69
+Cleft-Edged Hammer,Two-Hand,Mace,112.3 damage per second,70
+Vaulted Mace,Two-Hand,Mace,116.9 damage per second,72
+Iron-Molded Fist,Two-Hand,Mace,119.3 damage per second,73
+Cumbersome Sledgehammer,Two-Hand,Mace,121.6 damage per second,74
+Femur-Shafted Mace,Two-Hand,Mace,124.3 damage per second,75
+Lumbering Bludgeon,Two-Hand,Mace,126.9 damage per second,76
+Arctic War Hammer,Two-Hand,Mace,129.7 damage per second,77
+Onerous Mallet,Two-Hand,Mace,132.6 damage per second,78
+Lode-Headed Hammer,Two-Hand,Mace,135.6 damage per second,79
+Kingly Battlehammer,Two-Hand,Mace,138.7 damage per second,80
+Raider's Cutlass,One-Hand,Sword,81.5 damage per second,67
+Tribal Blade,One-Hand,Sword,83.1 damage per second,68
+Iron-Grip Shortsword,One-Hand,Sword,84.8 damage per second,69
+Tundra's Edge,One-Hand,Sword,86.3 damage per second,70
+Moonlit Katana,One-Hand,Sword,88.1 damage per second,71
+Chopping Wideblade,One-Hand,Sword,89.8 damage per second,72
+Shimmering Sabre,One-Hand,Sword,91.7 damage per second,73
+Scored Blade,One-Hand,Sword,93.7 damage per second,74
+Trollish Slicer,One-Hand,Sword,95.6 damage per second,75
+Primitive Scimitar,One-Hand,Sword,97.5 damage per second,76
+Craggy Machete,One-Hand,Sword,99.6 damage per second,77
+Sleeted Longsword,One-Hand,Sword,101.9 damage per second,78
+Blackened Blade,One-Hand,Sword,104.2 damage per second,79
+Skeleton's Sword,One-Hand,Sword,106.7 damage per second,80
+Unearthed Broadsword,Two-Hand,Sword,106.1 damage per second,67
+Whetted Ironblade,Two-Hand,Sword,108.0 damage per second,68
+Sawtooth Greatsword,Two-Hand,Sword,110.1 damage per second,69
+Shark Fin Blade,Two-Hand,Sword,112.3 damage per second,70
+Tempered-Steel Blade,Two-Hand,Sword,116.9 damage per second,72
+Dragon's Rib Sword,Two-Hand,Sword,119.3 damage per second,73
+Inlaid Greatsword,Two-Hand,Sword,121.6 damage per second,74
+Fur-Grip Broadsword,Two-Hand,Sword,124.3 damage per second,75
+Trollish Destroyer,Two-Hand,Sword,126.9 damage per second,76
+Chilled Warblade,Two-Hand,Sword,129.7 damage per second,77
+Petrified Sword,Two-Hand,Sword,132.6 damage per second,78
+Wintry Claymore,Two-Hand,Sword,135.6 damage per second,79
+Invasion Blade,Two-Hand,Sword,138.7 damage per second,80
+Survival Stick,Two-Hand,Staff,106.1 damage per second,67
+Journeyed Staff,Two-Hand,Staff,108.0 damage per second,68
+Branched Stick,Two-Hand,Staff,110.1 damage per second,69
+Unusual Staff,Two-Hand,Staff,112.3 damage per second,70
+Jester's Stick,Two-Hand,Staff,114.4 damage per second,71
+Promised Staff,Two-Hand,Staff,116.9 damage per second,72
+Pulsing Quarterstaff,Two-Hand,Staff,119.3 damage per second,73
+Refulgent Staff,Two-Hand,Staff,121.6 damage per second,74
+Ritual Greatstaff,Two-Hand,Staff,124.3 damage per second,75
+Spiked Greatstaff,Two-Hand,Staff,126.9 damage per second,76
+Desecrated Staff,Two-Hand,Staff,129.7 damage per second,77
+Cursed Staff,Two-Hand,Staff,132.6 damage per second,78
+Minion Staff,Two-Hand,Staff,135.6 damage per second,79
+Apocalyptic Staff,Two-Hand,Staff,138.7 damage per second,80
+Meat Ripper,One-Hand,Fist Weapon,81.5 damage per second,67
+Curved Scratcher,One-Hand,Fist Weapon,83.1 damage per second,68
+Prized Handscythes,One-Hand,Fist Weapon,84.8 damage per second,69
+Fighter's Grip,One-Hand,Fist Weapon,86.3 damage per second,70
+Blue-Nailed Claws,One-Hand,Fist Weapon,89.8 damage per second,72
+Gloved Talons,One-Hand,Fist Weapon,91.7 damage per second,73
+Spider Claw,One-Hand,Fist Weapon,93.7 damage per second,74
+Hero's Knuckles,One-Hand,Fist Weapon,95.6 damage per second,75
+Gilded Fangs,One-Hand,Fist Weapon,97.5 damage per second,76
+Six-Fingered Claws,One-Hand,Fist Weapon,99.6 damage per second,77
+Hollowed Bone Knuckles,One-Hand,Fist Weapon,101.9 damage per second,78
+Savage Talons,One-Hand,Fist Weapon,104.2 damage per second,79
+Corrupted Scythes,One-Hand,Fist Weapon,106.7 damage per second,80
+Splicing Axe,One-Hand,Axe,81.5 damage per second,67
+Dinged Cleaver,One-Hand,Axe,83.1 damage per second,68
+Primeval Adze,One-Hand,Axe,84.8 damage per second,69
+Bone Cleaver,One-Hand,Axe,86.3 damage per second,70
+Beaked Axe,One-Hand,Axe,89.8 damage per second,72
+Disk Axe,One-Hand,Axe,91.7 damage per second,73
+Troll Chopper,One-Hand,Axe,93.7 damage per second,74
+Boreal Woodchopper,One-Hand,Axe,95.6 damage per second,75
+Dire Axe,One-Hand,Axe,97.5 damage per second,76
+Wolvar Handaxe,One-Hand,Axe,99.6 damage per second,77
+Ice Pick,One-Hand,Axe,101.9 damage per second,78
+Skeletal Hacker,One-Hand,Axe,104.2 damage per second,79
+Snowy Edge,One-Hand,Axe,106.7 damage per second,80
+Finned Battleaxe,Two-Hand,Axe,106.1 damage per second,67
+Wreaking Battleaxe,Two-Hand,Axe,108.0 damage per second,68
+Taunka Axe,Two-Hand,Axe,110.1 damage per second,69
+Burning Battleaxe,Two-Hand,Axe,112.3 damage per second,70
+Segmenting Broadaxe,Two-Hand,Axe,114.4 damage per second,71
+Bone Plate Axe,Two-Hand,Axe,116.9 damage per second,72
+Winged Axe,Two-Hand,Axe,119.3 damage per second,73
+Deforester Axe,Two-Hand,Axe,121.6 damage per second,74
+Troll Decollator,Two-Hand,Axe,124.3 damage per second,75
+Fracturing Battleaxe,Two-Hand,Axe,126.9 damage per second,76
+Planate Broadaxe,Two-Hand,Axe,129.7 damage per second,77
+Rupturing Axe,Two-Hand,Axe,132.6 damage per second,78
+Ice-Splintering Axe,Two-Hand,Axe,135.6 damage per second,79
+Scarlet Battle Axe,Two-Hand,Axe,138.7 damage per second,80
+Ocean Trident,Two-Hand,Polearm,106.1 damage per second,67
+Village Scythe,Two-Hand,Polearm,108.0 damage per second,68
+Patient Harpoon,Two-Hand,Polearm,110.1 damage per second,69
+Rust-Covered Polearm,Two-Hand,Polearm,112.3 damage per second,70
+Grizzly Glaive,Two-Hand,Polearm,116.9 damage per second,72
+Wind Scythe,Two-Hand,Polearm,119.3 damage per second,73
+Rugged Polearm,Two-Hand,Polearm,121.6 damage per second,74
+Dwarven Halberd,Two-Hand,Polearm,124.3 damage per second,75
+Piercing Glaive,Two-Hand,Polearm,126.9 damage per second,76
+Abandoned Spear,Two-Hand,Polearm,129.7 damage per second,77
+Plagued Pike,Two-Hand,Polearm,132.6 damage per second,78
+Bleak Scythe,Two-Hand,Polearm,135.6 damage per second,79
+Scourge War Spear,Two-Hand,Polearm,138.7 damage per second,80
+Honorable Longbow,Ranged,Bow,73.7 damage per second,67
+Yew Bow,Ranged,Bow,75.2 damage per second,68
+Expert's Longbow,Ranged,Bow,76.5 damage per second,69
+Dutiful Longbow,Ranged,Bow,78.0 damage per second,70
+Twisted Longbow,Ranged,Bow,81.1 damage per second,72
+Astral Light Bow,Ranged,Bow,82.8 damage per second,73
+Tracking Bow,Ranged,Bow,84.4 damage per second,74
+Advanced Flatbow,Ranged,Bow,86.3 damage per second,75
+Acute Shortbow,Ranged,Bow,88.1 damage per second,76
+Harnessed Longbow,Ranged,Bow,90.2 damage per second,77
+Shrieking Bow,Ranged,Bow,92.2 damage per second,78
+Massive Recurved Bow,Ranged,Bow,94.3 damage per second,79
+Military Compound Bow,Ranged,Bow,96.5 damage per second,80
+Composite Crossbow,Ranged,Crossbow,73.7 damage per second,67
+Under-Arm Crossbow,Ranged,Crossbow,75.2 damage per second,68
+Ferocious Crossbow,Ranged,Crossbow,76.5 damage per second,69
+Sinewed Crossbow,Ranged,Crossbow,78.0 damage per second,70
+Slingshot Crossbow,Ranged,Crossbow,81.1 damage per second,72
+Palisade Crossbow,Ranged,Crossbow,82.8 damage per second,73
+Pain Repeater,Ranged,Crossbow,84.4 damage per second,74
+Marvelous Crossbow,Ranged,Crossbow,86.3 damage per second,75
+Arbalest Crossbow,Ranged,Crossbow,88.1 damage per second,76
+Horrific Crossbow,Ranged,Crossbow,90.2 damage per second,77
+Bloody Crossbow,Ranged,Crossbow,92.2 damage per second,78
+Brutal Ballista,Ranged,Crossbow,94.3 damage per second,79
+Scourge Crossbow,Ranged,Crossbow,96.5 damage per second,80
+Bound Musket,Ranged,Gun,73.7 damage per second,67
+Flintlock Gun,Ranged,Gun,75.2 damage per second,68
+Tracker's Musket,Ranged,Gun,76.5 damage per second,69
+Inelegant Musket,Ranged,Gun,78.0 damage per second,70
+Haggard Gun,Ranged,Gun,81.1 damage per second,72
+Noisy Blaster,Ranged,Gun,82.8 damage per second,73
+Trapper's Rifle,Ranged,Gun,84.4 damage per second,74
+Tundra Rifle,Ranged,Gun,86.3 damage per second,75
+Mammoth Gun,Ranged,Gun,88.1 damage per second,76
+Muzzled Musket,Ranged,Gun,90.2 damage per second,77
+Stocky Shotgun,Ranged,Gun,92.2 damage per second,78
+Precipice Longrifle,Ranged,Gun,94.3 damage per second,79
+Harsh-Winter Rifle,Ranged,Gun,96.5 damage per second,80
+Eccentric Dagger,Main Hand,Dagger,47.3 damage per second,67
+Gypsy Blade,Main Hand,Dagger,48.0 damage per second,68
+Ominous Dagger,Main Hand,Dagger,48.6 damage per second,69
+Strange Dagger,Main Hand,Dagger,49.7 damage per second,70
+Old Tooth,Main Hand,Dagger,52.0 damage per second,72
+Sockeye Dagger,Main Hand,Dagger,53.0 damage per second,73
+Water Blade,Main Hand,Dagger,53.9 damage per second,74
+Levitating Dagger,Main Hand,Dagger,54.9 damage per second,75
+Runed Talon,Main Hand,Dagger,56.3 damage per second,76
+Singing Dagger,Main Hand,Dagger,57.5 damage per second,77
+Mystic Fang,Main Hand,Dagger,59.0 damage per second,78
+Wisdom Carver,Main Hand,Dagger,60.3 damage per second,79
+Seduced Blade,Main Hand,Dagger,61.7 damage per second,80
+Enshrined Mace,Main Hand,Mace,47.3 damage per second,67
+Ambrosial Hammer,Main Hand,Mace,48.0 damage per second,68
+Placid Lightmace,Main Hand,Mace,48.6 damage per second,69
+Harmonious Scepter,Main Hand,Mace,49.7 damage per second,70
+Sacrosanct Mace,Main Hand,Mace,52.0 damage per second,72
+Refreshing Hammer,Main Hand,Mace,53.0 damage per second,73
+Unearthly Scepter,Main Hand,Mace,53.9 damage per second,74
+Dignified Hammer,Main Hand,Mace,54.9 damage per second,75
+Remedial Mace,Main Hand,Mace,56.3 damage per second,76
+Serene Hammer,Main Hand,Mace,57.5 damage per second,77
+Beatific Mace,Main Hand,Mace,59.0 damage per second,78
+Dogmatic Scepter,Main Hand,Mace,60.3 damage per second,79
+Graced Scepter,Main Hand,Mace,61.7 damage per second,80
+Aquatic Greatstaff,Two-Hand,Staff,71.6 damage per second,67
+Conifer Cone Staff,Two-Hand,Staff,108.0 damage per second,68
+Iceberg Staff,Two-Hand,Staff,110.1 damage per second,69
+Peat Greatstaff,Two-Hand,Staff,112.3 damage per second,70
+Melting Icestaff,Two-Hand,Staff,116.9 damage per second,72
+Tusked Greatstaff,Two-Hand,Staff,119.3 damage per second,73
+Hive Comb Staff,Two-Hand,Staff,121.6 damage per second,74
+Geyser Staff,Two-Hand,Staff,124.3 damage per second,75
+Tenacious Vine Staff,Two-Hand,Staff,126.9 damage per second,76
+Cascading Water Staff,Two-Hand,Staff,129.7 damage per second,77
+Snow Blossom Staff,Two-Hand,Staff,132.6 damage per second,78
+Crystal Woodstaff,Two-Hand,Staff,135.6 damage per second,79
+Avalanche Staff,Two-Hand,Staff,138.7 damage per second,80
+Forsaken Edge,Thrown,Thrown,73.2 damage per second,67
+Pearled Wand,Ranged,Wand,Physical Damage,150.0 damage per second,67
+Darkened Wand,Ranged,Wand,Shadow Damage,152.6 damage per second,68
+Vicious Wand,Ranged,Wand,Nature Damage,155.6 damage per second,69
+Extinguished Spark,Ranged,Wand,Nature Damage,158.5 damage per second,70
+Melted Wand,Ranged,Wand,Fire Damage,165.0 damage per second,72
+Enigmatic Wand,Ranged,Wand,Arcane Damage,168.5 damage per second,73
+Voodoo Wand,Ranged,Wand,Shadow Damage,171.8 damage per second,74
+Ancient Wand,Ranged,Wand,Fire Damage,175.6 damage per second,75
+Chilled Wand,Ranged,Wand,Frost Damage,179.4 damage per second,76
+Wasteland Wand,Ranged,Wand,Nature Damage,183.2 damage per second,77
+Polar Wand,Ranged,Wand,Frost Damage,187.4 damage per second,78
+Solid Ice Wand,Ranged,Wand,Frost Damage,191.8 damage per second,79
+Mindless Wand,Ranged,Wand,Arcane Damage,195.9 damage per second,80
