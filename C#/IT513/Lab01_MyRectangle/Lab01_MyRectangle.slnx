@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Lab01_MyRectangle/Lab01_MyRectangle.csproj" />
+  <Project Path="Lab02_TransactionLines/Lab02_TransactionLines.csproj" Id="941c087d-a8bb-4d03-bed8-20a906bf6db1" />
 </Solution>
