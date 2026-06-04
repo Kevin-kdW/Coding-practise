@@ -2,4 +2,6 @@
   <Project Path="Lab01_MyRectangle/Lab01_MyRectangle.csproj" />
   <Project Path="Lab02_TransactionLines/Lab02_TransactionLines.csproj" Id="941c087d-a8bb-4d03-bed8-20a906bf6db1" />
   <Project Path="Lab03_AnimalSpecies1/Lab03_AnimalSpecies1.csproj" Id="f42e1e5c-4905-4c7a-8f08-df9732b565f3" />
+  <Project Path="Lab04_AnimalSpecies2/Lab04_AnimalSpecies2.csproj" Id="5227d134-1d32-4ef1-9da6-eee364f29e49" />
+  <Project Path="Lab05_DeweyClassificationSystem/Lab05_DeweyClassificationSystem.csproj" Id="4c6d674e-6c3e-4d1d-b64e-2a7e7fa85315" />
 </Solution>
