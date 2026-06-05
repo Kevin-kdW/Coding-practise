@@ -6,27 +6,39 @@ namespace Lab33_CountingNames
     {
         static void Main(string[] args)
         {
-            //Recursion? NOT FINISHED
             Console.WriteLine("502 Lab 33");
-            using (StreamReader reader = new StreamReader(@"names.txt"))
-            {
-                string line = reader.ReadLine();
-                while (!reader.EndOfStream)
-                {
-                    RecursedNames(line);
-                }
-                //Console.WriteLine($"");
-            }
+            ArrayList names = LoadNames(@"names.txt");
+            CountNames(names);
         }
-        static void RecursedNames(string line)
+
+        static ArrayList LoadNames(string path)
         {
             ArrayList names = new ArrayList();
-            foreach (string person in names)
+            using (StreamReader reader = new StreamReader(path))
             {
-                names.Add(person);
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    names.Add(line.Trim());
+                }
             }
-            Console.WriteLine(names);
-            line = Console.ReadLine();
+            return names;
+        }
+
+        static void CountNames(ArrayList names)
+        {
+            int maryCount = 0;
+            int joeCount = 0;
+            int anneCount = 0;
+
+            foreach (var name in names)
+            {
+                if (name.Equals("Mary")) maryCount++;
+                else if (name.Equals("Joe")) joeCount++;
+                else if (name.Equals("Anne")) anneCount++;
+            }
+
+            Console.WriteLine($"Mary: {maryCount}\nJoe: {joeCount}\nAnne: {anneCount}");
         }
     }
 }
