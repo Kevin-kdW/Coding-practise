@@ -1,4 +1,4 @@
-#
+#Look a the formatting and counts
 
 line = int(input("Number: "))
 count = 0
